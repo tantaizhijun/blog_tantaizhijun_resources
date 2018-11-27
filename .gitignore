@@ -1,0 +1,16 @@
+.DS_Store
+*.class
+.vscode
+node_modules/
+db.json
+Thumbs.db
+*.log
+public/
+.deploy*/
+
+
+
+node_modules/
+db.json
+public/
+.deploy_git
