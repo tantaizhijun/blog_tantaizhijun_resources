@@ -2,7 +2,7 @@
 layout: post
 title: '阿里面试: 一个http请求,springMvc是如何找到对应的方法进行执行的?'
 date: 2018-12-05 11:18:42
-categories: spring,java
+categories: spring
 tags: springMvc
 ---
 
