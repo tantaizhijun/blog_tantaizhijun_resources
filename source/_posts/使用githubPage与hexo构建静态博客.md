@@ -200,5 +200,18 @@ toc:
 自己百度去学习吧...
 
 
+#### 部署遇到的问题
+   - 在webstorm/IDEA中部署若出现以下错误
+    
+    ```
+    Error: Permission denied (publickey).
+    fatal: Could not read from remote repository.
+    
+    Please make sure you have the correct access rights
+    and the repository exists.
+
+    ```
+   解决: 一般使用git bash窗口进行部署就没有问题了, 会弹出密码框, 输入创建ssh时的密码即可
+
 
 
