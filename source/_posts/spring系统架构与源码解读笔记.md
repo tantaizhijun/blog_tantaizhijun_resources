@@ -3,7 +3,7 @@ layout: post
 title: spring系统架构与源码解读笔记
 date: 2018-12-23 21:50:20
 tags:
-categories: spring,java 框架
+categories: spring
 ---
 
 ### 一. spring系统架构
