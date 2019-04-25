@@ -12,6 +12,9 @@ tags: mvc
   1.IOC容器: 负责实例化, 定位, 配置应用程序中的对象及建立这些对象之间的依赖.比如对orderService的生命周期的管理.
     当服务器(如tomcat)启动时--->进行加载项目--->spring会把所有的Bean全部创建出来,放进IOC容器.
     IOC容器就是一个很大的map对象. 源码为证:
+    
+<!--more-->
+
     [图片]
     IOC: Map: map.put(key,val);  key就是声明的beanName, value就是new Obj();
     当使用bean时, 就是从容器中get("beanName"), 返回保存的bean实例.
